@@ -3,4 +3,4 @@ Create Repository
 Commands
   Git clone <url>
   Git add
-  
+  Git commit
