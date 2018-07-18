@@ -9,3 +9,6 @@ Desktop GitHub is repository on local machine
 Git status
 Git push
 Git pull
+Git log
+Git reset --hard <commit>
+Git reset --hard origin/master
