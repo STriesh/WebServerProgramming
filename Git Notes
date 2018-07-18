@@ -3,4 +3,6 @@ Create Repository
 Commands
   Git clone <url>
   Git add
-  Git commit
+  Git commit -m "type a message"
+Atom is the editor
+Desktop GitHub is repository on local machine
