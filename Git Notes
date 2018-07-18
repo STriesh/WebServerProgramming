@@ -6,4 +6,5 @@ Commands
   Git commit -m "type a message"
 Atom is the editor
 Desktop GitHub is repository on local machine
-Git Status
+Git status
+Git push
